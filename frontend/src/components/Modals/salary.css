@@ -1,0 +1,36 @@
+.actions {
+  display: flex !important;
+}
+
+.form-container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.add-new-salary {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 0;
+  background-color: #3bb19b;
+  color: white;
+  margin: 10px;
+  border-radius: 20px;
+  width: 180px;
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: rgb(59, 177, 155, 0.8);
+}
+
+.add-btn {
+  display: flex;
+  justify-content: center;
+}

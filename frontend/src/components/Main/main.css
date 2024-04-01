@@ -1,0 +1,98 @@
+/* .navbar {
+	width: 100%;
+	height: 70px;
+	background-color: #3bb19b;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.navbar h1 {
+	color: white;
+	font-size: 25px;
+	margin-left: 20px;
+}
+
+.white_btn {
+	border: none;
+	outline: none;
+	padding: 12px 0;
+	background-color: white;
+	border-radius: 20px;
+	width: 120px;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;
+	margin-right: 20px;
+} */
+
+.add-emp {
+  margin: 2rem;
+}
+
+.add-emp {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 0;
+  background-color: #3bb19b;
+  color: white;
+  margin: 10px;
+  border-radius: 20px;
+  width: 180px;
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: rgb(59, 177, 155, 0.8);
+}
+.edit-btn,
+.add-salary-btn {
+  border: none;
+  outline: none;
+  padding: 12px;
+  background-color: #3bb19b;
+  color: white;
+  margin: 10px;
+  border-radius: 20px;
+  width: fit-content;
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.add-salary-btn:hover {
+  background-color: rgb(59, 177, 155, 0.8);
+}
+.edit-btn:hover {
+  background-color: rgb(59, 177, 155, 0.8);
+}
+
+.form-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.close svg {
+  cursor: pointer;
+}
+.no-content {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  width: 100%;
+  height: 50vh;
+}
+/* .actions {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+} */
